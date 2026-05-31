@@ -18,6 +18,9 @@ I work at the intersection of **AI** and **Security Engineering** - building too
 - 🔍 **[SecEngAI Intel](https://intel.secengai.com)** - The search engine for exposed AI infrastructure
 - 🔬 **[SecEngAI Labs](https://labs.secengai.com)** - Practical AI security tools and labs
 - 🌐 **[dnspermu](https://github.com/mfakbar127/dnspermu/tree/master)** - Domain permutation engine for typo-squatting detection
+- 🔌 **[MCP-Ables](https://github.com/mfakbar127/MCP-Ables)** - Turn any shell command into an MCP Server
+- ⚔️ **[Claude-Samurai](https://github.com/mfakbar127/Claude-Samurai)** - Configuration manager for Claude Code and MCP
+- 🏗️ **[terra-iam](https://github.com/mfakbar127/terra-iam)** - SaaS user access management via Terraform and YAML
 
 ## Experience
 
