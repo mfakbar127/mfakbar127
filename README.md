@@ -17,6 +17,7 @@ I work at the intersection of **AI** and **Security Engineering** - building too
 - 🛡️ **[SecEngAI](https://secengai.com)** - Applied AI for Security Engineering (3k+ subscribers, 200k+ impressions)
 - 🔍 **[SecEngAI Intel](https://intel.secengai.com)** - The search engine for exposed AI infrastructure
 - 🔬 **[SecEngAI Labs](https://labs.secengai.com)** - Practical AI security tools and labs
+- 🌐 **[dnspermu](https://github.com/mfakbar127/dnspermu/tree/master)** - Domain permutation engine for typo-squatting detection
 
 ## Experience
 
