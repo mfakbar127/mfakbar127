@@ -21,6 +21,7 @@ I work at the intersection of **AI** and **Security Engineering** - building too
 - 🔌 **[MCP-Ables](https://github.com/mfakbar127/MCP-Ables)** - Turn any shell command into an MCP Server
 - ⚔️ **[Claude-Samurai](https://github.com/mfakbar127/Claude-Samurai)** - Configuration manager for Claude Code and MCP
 - 🏗️ **[terra-iam](https://github.com/mfakbar127/terra-iam)** - SaaS user access management via Terraform and YAML
+- 🔔 **[notifycli](https://github.com/mfakbar127/notifycli)** - Unified CLI for sending notifications via external providers
 
 ## Experience
 
