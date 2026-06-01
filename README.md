@@ -22,6 +22,7 @@ I work at the intersection of **AI** and **Security Engineering** - building too
 - ⚔️ **[Claude-Samurai](https://github.com/mfakbar127/Claude-Samurai)** - Configuration manager for Claude Code and MCP
 - 🏗️ **[terra-iam](https://github.com/mfakbar127/terra-iam)** - SaaS user access management via Terraform and YAML
 - 🔔 **[notifycli](https://github.com/mfakbar127/notifycli)** - Unified CLI for sending notifications via external providers
+- 📋 **[mcp4enum](https://github.com/mfakbar127/mcp4enum)** - Enumerate MCP server prompts, resources, and tools
 
 ## Experience
 
