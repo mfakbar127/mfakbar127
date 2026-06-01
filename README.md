@@ -23,6 +23,7 @@ I work at the intersection of **AI** and **Security Engineering** - building too
 - 🏗️ **[terra-iam](https://github.com/mfakbar127/terra-iam)** - SaaS user access management via Terraform and YAML
 - 🔔 **[notifycli](https://github.com/mfakbar127/notifycli)** - Unified CLI for sending notifications via external providers
 - 📋 **[mcp4enum](https://github.com/mfakbar127/mcp4enum)** - Enumerate MCP server prompts, resources, and tools
+- 👁️ **[llmpeek](https://github.com/mfakbar127/llmpeek)** - Probe and inspect AI service endpoints
 
 ## Experience
 
