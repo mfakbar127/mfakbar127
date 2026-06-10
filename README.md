@@ -17,6 +17,7 @@ I work at the intersection of **AI** and **Security Engineering** - building too
 - 🛡️ **[SecEngAI](https://secengai.com)** - Applied AI for Security Engineering (3k+ subscribers, 200k+ impressions)
 - 🔍 **[SecEngAI Intel](https://intel.secengai.com)** - The search engine for exposed AI infrastructure
 - 🔬 **[SecEngAI Labs](https://labs.secengai.com)** - Practical AI security tools and labs
+- 🛠️ **[secops-cli](https://github.com/mfakbar127/secops-cli)** - Unified SecOps tools for AI agent
 - 🌐 **[dnspermu](https://github.com/mfakbar127/dnspermu/tree/master)** - Domain permutation engine for typo-squatting detection
 - 🔌 **[MCP-Ables](https://github.com/mfakbar127/MCP-Ables)** - Turn any shell command into an MCP Server
 - ⚔️ **[Claude-Samurai](https://github.com/mfakbar127/Claude-Samurai)** - Configuration manager for Claude Code and MCP
